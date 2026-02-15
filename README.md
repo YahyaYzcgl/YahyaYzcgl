@@ -44,18 +44,6 @@ An AI-powered Quality Engineering framework that:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YahyaYzcgl&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaYzcgl&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🎯 Career Focus
 
 - Quality Engineering
